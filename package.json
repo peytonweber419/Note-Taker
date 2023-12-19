@@ -13,9 +13,6 @@
   "dependencies": {
     "express": "^4.18.2",
     "uuid": "^9.0.1"
-  },
-  "engines" : { 
-    "npm" : "20.9.0",
-    "node" : "10.1.0"
   }
+ 
 }
